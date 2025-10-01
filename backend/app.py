@@ -1,3 +1,4 @@
+#app
 from flask import Flask, render_template, request, redirect, url_for, session, make_response
 import random
 import mysql.connector
